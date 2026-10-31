@@ -38,13 +38,13 @@ Train a model:
 python main.py PSM true
 ```
 
-Evaluate using a pretrained checkpoint:
+Evaluate using a trained checkpoint:
 
 ```bash
 python main.py PSM false
 ```
 
-When `TRAINING=false`, the script automatically loads the corresponding pretrained checkpoint from the `main_pth/` directory.
+When `TRAINING=false`, the script automatically loads the corresponding trained checkpoint from the `main_pth/` directory.
 
 ---
 
@@ -119,9 +119,9 @@ dataset/
 
 ---
 
-# Pretrained Checkpoints
+# Trained Checkpoints
 
-We provide pretrained checkpoints for all benchmark datasets. Each archive contains the checkpoints corresponding to the **five random seeds** used in our experiments.
+We provide trained checkpoints for all benchmark datasets. Each archive contains the checkpoints corresponding to the **five random seeds** used in our experiments.
 
 | Dataset | Download |
 |---------|----------|
