@@ -1,8 +1,6 @@
 # Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection
 
-This repository contains the official implementation of **Flow+Diff: Unifying Flow and Diffusion
-Representations for Multivariate Time Series Anomaly
-Detection**.
+This repository contains the official implementation of Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection, published at NeurIPS 2026.
 
 ---
 
@@ -189,3 +187,20 @@ metrics_seed_stats_<DATASET>.csv
 for each benchmark dataset.
 
 ---
+
+# Citation
+
+If you find this work useful in your research, please cite our paper:
+
+```
+@inproceedings{koh2026flowdiff,
+  title     = {Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection},
+  author    = {Koh, Van Kwan Zhi and others},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2026},
+  url       = {https://neurips.cc/virtual/2026/loc/sydney/poster/152468}
+}
+```
+
+**Paper:** [https://neurips.cc/virtual/2026/loc/sydney/poster/152468](https://neurips.cc/virtual/2026/loc/sydney/poster/152468)
+
