@@ -195,10 +195,10 @@ If you find this work useful in your research, please cite our paper:
 ```
 @inproceedings{koh2026flowdiff,
   title     = {Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection},
-  author    = {Koh, Van Kwan Zhi and others},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  author    = {Koh, Van Kwan Zhi and Lin, Songnan and Lin, Zhiping and Wen, Bihan},
+  booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
   year      = {2026},
-  url       = {https://neurips.cc/virtual/2026/loc/sydney/poster/152468}
+  url       = {https://openreview.net/forum?id=SsSjmffHDW}
 }
 ```
 
